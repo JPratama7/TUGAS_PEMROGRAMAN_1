@@ -1,0 +1,13 @@
+/home/xoid/praktikum_dotnet/P1_3_1204004/bin/Debug/netcoreapp3.1/P1_3_1204004
+/home/xoid/praktikum_dotnet/P1_3_1204004/bin/Debug/netcoreapp3.1/P1_3_1204004.deps.json
+/home/xoid/praktikum_dotnet/P1_3_1204004/bin/Debug/netcoreapp3.1/P1_3_1204004.runtimeconfig.json
+/home/xoid/praktikum_dotnet/P1_3_1204004/bin/Debug/netcoreapp3.1/P1_3_1204004.runtimeconfig.dev.json
+/home/xoid/praktikum_dotnet/P1_3_1204004/bin/Debug/netcoreapp3.1/P1_3_1204004.dll
+/home/xoid/praktikum_dotnet/P1_3_1204004/bin/Debug/netcoreapp3.1/P1_3_1204004.pdb
+/home/xoid/praktikum_dotnet/P1_3_1204004/obj/Debug/netcoreapp3.1/P1_3_1204004.csprojAssemblyReference.cache
+/home/xoid/praktikum_dotnet/P1_3_1204004/obj/Debug/netcoreapp3.1/P1_3_1204004.AssemblyInfoInputs.cache
+/home/xoid/praktikum_dotnet/P1_3_1204004/obj/Debug/netcoreapp3.1/P1_3_1204004.AssemblyInfo.cs
+/home/xoid/praktikum_dotnet/P1_3_1204004/obj/Debug/netcoreapp3.1/P1_3_1204004.csproj.CoreCompileInputs.cache
+/home/xoid/praktikum_dotnet/P1_3_1204004/obj/Debug/netcoreapp3.1/P1_3_1204004.dll
+/home/xoid/praktikum_dotnet/P1_3_1204004/obj/Debug/netcoreapp3.1/P1_3_1204004.pdb
+/home/xoid/praktikum_dotnet/P1_3_1204004/obj/Debug/netcoreapp3.1/P1_3_1204004.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ame7EhVKHv6Kf5QCp3f9a2FK3nCQABmueaWU9gMfJndoomBUu6k8qKYn+DqXrW9I7a8CE6VDpnQUpZuKvkHhdA==",
+  "success": true,
+  "projectFilePath": "/home/xoid/praktikum_dotnet/P1_2_1204004/P1_2_1204004.csproj",
+  "expectedPackageFiles": [
+    "/home/xoid/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/home/xoid/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.20/microsoft.netcore.app.host.linux-x64.3.1.20.nupkg.sha512"
+  ],
+  "logs": []
+}
